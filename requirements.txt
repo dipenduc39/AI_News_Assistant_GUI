@@ -1,13 +1,5 @@
-Flask
-opencv-python
-opencv-contrib-python
-face-recognition
 SpeechRecognition
 pyttsx3
-pywin32
-numpy
-sockets
 pygame
 beautifulsoup4
-playsound
-email
+
