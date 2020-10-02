@@ -1,11 +1,13 @@
 # AI_News_Assistant_GUI
-GUI Version of AI_News_Assistant
 
 # Desriciption
+GUI Version of AI_News_Assistant.
+You can listen same news in multiple time.
 
+## How It looks in your system
 [![Demo CountPages alpha](https://github.com/dipenduc39/AI_News_Assistant_GUI/blob/main/demo%20video%20news.gif)](https://drive.google.com/file/d/14OY5AW6W9glZLI03Q8br-TLahgxO4FyF/view?usp=sharing)
 
-You can listen same news in multiple time.
+
 
 # Project Dependencies
 1. beautifulsoup4
