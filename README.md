@@ -3,7 +3,7 @@ GUI Version of AI_News_Assistant
 
 # Desriciption
 
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://drive.google.com/file/d/14OY5AW6W9glZLI03Q8br-TLahgxO4FyF/view?usp=sharing)
+[![Demo CountPages alpha](https://github.com/dipenduc39/AI_News_Assistant_GUI/blob/main/demo%20video%20news.gif)](https://drive.google.com/file/d/14OY5AW6W9glZLI03Q8br-TLahgxO4FyF/view?usp=sharing)
 
 You can listen same news in multiple time.
 
