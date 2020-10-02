@@ -2,7 +2,7 @@
 GUI Version of AI_News_Assistant
 
 # Desriciption
-This Assistant tells you the Latest AI related headlines. [Demo Video](https://drive.google.com/file/d/14OY5AW6W9glZLI03Q8br-TLahgxO4FyF/view?usp=sharing)
+#This Assistant tells you the Latest AI related headlines. [Demo Video](https://drive.google.com/file/d/14OY5AW6W9glZLI03Q8br-TLahgxO4FyF/view?usp=sharing)
 [![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://drive.google.com/file/d/14OY5AW6W9glZLI03Q8br-TLahgxO4FyF/view?usp=sharing)
 
 You can listen same news in multiple time.
