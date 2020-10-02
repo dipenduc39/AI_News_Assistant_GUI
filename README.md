@@ -4,11 +4,6 @@
 GUI Version of AI_News_Assistant.
 You can listen same news in multiple time.
 
-## How It looks in your system
-[![Demo CountPages alpha](https://github.com/dipenduc39/AI_News_Assistant_GUI/blob/main/demo%20video%20news.gif)](https://drive.google.com/file/d/14OY5AW6W9glZLI03Q8br-TLahgxO4FyF/view?usp=sharing)
-
-
-
 # Project Dependencies
 1. beautifulsoup4
 2. SpeechRecognition
@@ -30,6 +25,10 @@ Move the `startup_run.vbs` to startup folder.
 If you unable to find Startup folder, simple press win+r to open `Run` and past this url `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp` hit enter.
 ### step3 
 `Restart the PC`
+
+## How It looks in your system
+[![Demo CountPages alpha](https://github.com/dipenduc39/AI_News_Assistant_GUI/blob/main/demo%20video%20news.gif)](https://drive.google.com/file/d/14OY5AW6W9glZLI03Q8br-TLahgxO4FyF/view?usp=sharing)
+
 
 ## All done! Enjoy with your News Assistant With GUI Version....
 
