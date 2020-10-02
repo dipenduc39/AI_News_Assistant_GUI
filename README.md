@@ -1,4 +1,5 @@
 # AI_News_Assistant_GUI
+Testes On Windows10 with Python3
 
 # Desriciption
 GUI Version of AI_News_Assistant.
