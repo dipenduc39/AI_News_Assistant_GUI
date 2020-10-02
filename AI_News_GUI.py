@@ -1,6 +1,5 @@
 #!/usr/bin/env python
-#title           :AI_News.py
-#description     :Dependency Package of get_user_response.py
+#title           :AI_News_GUI.py
 #author          :Dipendu Choudhury
 #date            :2020-APR-27
 #version         :1.0
